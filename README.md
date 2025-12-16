@@ -1,12 +1,12 @@
 # Mixed-Dry-Fruits-Sale-Analysis-Using-PowerBI
 
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-green?logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Project-black?logo=github)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analyst-blueviolet)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Data%20Source-green?logo=microsoft-excel)
+![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-lightgrey)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
 
